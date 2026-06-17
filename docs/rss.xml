@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://cyjxl0507.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cyjxl0507.github.io</link></image><lastBuildDate>Wed, 17 Jun 2026 18:22:53 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试文本</title><link>https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</link><description># Exam Review Sample
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://cyjxl0507.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cyjxl0507.github.io</link></image><lastBuildDate>Wed, 17 Jun 2026 18:26:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试文本</title><link>https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</link><description># Exam Review Sample
 
 This file is a quick smoke test for the reader.
 
@@ -37,42 +37,4 @@ This file is a quick smoke test for the reader.
 ```js
 const review = ['read', 'recall', 'practice'];
 console.log(review.join(' -&gt; '));
-```。</description><guid isPermaLink="true">https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</guid><pubDate>Wed, 17 Jun 2026 18:22:16 +0000</pubDate></item><item><title>测试文本</title><link>https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</link><description># Exam Review Sample
-
-This file is a quick smoke test for the reader.
-
-## Key Points
-
-- Use **bold** for high-priority facts.
-- Use *italic* for emphasis.
-- Use `inline code` for terms or formulas.
-- Use ==highlight== for material that needs another pass.
-
-&gt; A short quote block is useful for definitions or examiner wording.
-
-## Checklist
-
-- [x] Import Markdown
-- [x] Generate outline
-- [ ] Review weak topics
-
-## Table
-
-| Topic    | Priority | Note                    |
-| -------- | -------- | ----------------------- |
-| Concepts | High     | Read twice              |
-| Practice | Medium   | Time-box each set       |
-| Errors   | High     | Summarize every mistake |
-
-## Links And Images
-
-[Cloudflare Pages](https://pages.cloudflare.com/) opens in a new tab.
-
-![Sample image](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&amp;fit=crop&amp;w=1200&amp;q=80)
-
-## Code Block
-
-```js
-const review = ['read', 'recall', 'practice'];
-console.log(review.join(' -&gt; '));
-```。</description><guid isPermaLink="true">https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</guid><pubDate>Wed, 17 Jun 2026 17:54:03 +0000</pubDate></item></channel></rss>
+```。</description><guid isPermaLink="true">https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</guid><pubDate>Wed, 17 Jun 2026 18:22:16 +0000</pubDate></item></channel></rss>
