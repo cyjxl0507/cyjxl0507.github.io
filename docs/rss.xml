@@ -1,24 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>葱油卷的仓库</title><link>https://cyjxl0507.github.io</link><description>禁止熬夜~</description><copyright>葱油卷的仓库</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/cyjxl0507.png</url><title>avatar</title><link>https://cyjxl0507.github.io</link></image><lastBuildDate>Wed, 17 Jun 2026 19:16:00 +0000</lastBuildDate><managingEditor>葱油卷的仓库</managingEditor><ttl>60</ttl><webMaster>葱油卷的仓库</webMaster><item><title>测试文本</title><link>https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</link><description># 检测网站
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>葱油卷的仓库</title><link>https://cyjxl0507.github.io</link><description>禁止熬夜~</description><copyright>葱油卷的仓库</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/cyjxl0507.png</url><title>avatar</title><link>https://cyjxl0507.github.io</link></image><lastBuildDate>Wed, 17 Jun 2026 19:26:42 +0000</lastBuildDate><managingEditor>葱油卷的仓库</managingEditor><ttl>60</ttl><webMaster>葱油卷的仓库</webMaster><item><title>测试文本</title><link>https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</link><description># 检测网站
 
-[[蹬蹬群U检测](https://cybertar.youngood.tech/lab/model-verifier/)](https://cybertar.youngood.tech/lab/model-verifier/)
-
-[[禾维](https://hvoy.ai/)](https://hvoy.ai/)
-
-真测Ztest https://ztest.ai/
-
-中转站品质检测 https://bazaarlink.ai/probe
-
-Claude test https://cctest.ai/zh
+- [蹬蹬群U检测](https://cybertar.youngood.tech/lab/model-verifier/)
+- [禾维](https://hvoy.ai/)
+- [真测Ztest](https://ztest.ai/)
+- [中转站品质检测](https://bazaarlink.ai/probe)
+- [Claude test](https://cctest.ai/zh)
 
 # 公益站
 
-公益站导航 https://freetokennav.com/
-
-聚合AI公益站 https://gyai.huanmin.top/p/resources
-
-登仙 https://api.denxio.top/dashboard 签到
-
-小水管 https://api.pie-xian.com/console 签到 高并发翻译
-
-Future Hub https://api.futureppo.top/console 签到 高并发翻译。</description><guid isPermaLink="true">https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</guid><pubDate>Wed, 17 Jun 2026 18:22:16 +0000</pubDate></item></channel></rss>
+- [公益站导航](https://freetokennav.com/)
+- [聚合AI公益站](https://gyai.huanmin.top/p/resources)
+- [登仙](https://api.denxio.top/dashboard) `签到`
+- [小水管](https://api.pie-xian.com/console) `签到` `高并发翻译`
+- [Future Hub](https://api.futureppo.top/console) `签到` `高并发翻译`。</description><guid isPermaLink="true">https://cyjxl0507.github.io/post/ce-shi-wen-ben.html</guid><pubDate>Wed, 17 Jun 2026 18:22:16 +0000</pubDate></item></channel></rss>
