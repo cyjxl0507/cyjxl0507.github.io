@@ -1,15 +1,71 @@
-# 检测网站
+# 检测站
 
-- [CyberTAR 模型验真](https://cybertar.youngood.tech/lab/model-verifier/)
+- [蹬蹬群U检测](https://cybertar.youngood.tech/lab/model-verifier/)
 - [禾维](https://hvoy.ai/)
-- [真测 Ztest](https://ztest.ai/)
+- [真测Ztest](https://ztest.ai/)
 - [中转站品质检测](https://bazaarlink.ai/probe)
 - [Claude test](https://cctest.ai/zh)
 
 # 公益站
 
-- [公益站导航](https://freetokennav.com/)
-- [聚合AI公益站](https://gyai.huanmin.top/p/resources)
-- [登仙](https://api.denxio.top/dashboard) `签到`
-- [小水管](https://api.pie-xian.com/console) `签到` `高并发翻译`
-- [Future Hub](https://api.futureppo.top/console) `签到` `高并发翻译`
+- [聚合 API 导航](https://gyai.huanmin.top/p/resources)
+- [登仙](https://api.denxio.top/checkin) `签到`
+- [小水管](https://api.pie-xian.com/console/personal) `签到` `高并发翻译`
+- [Future Hub](https://api.futureppo.top/console/personal) `签到` `高并发翻译`
+
+# 付费站
+
+## 付费
+
+- [Cloudpipi](https://cloudpipi.com/console/personal) `RP站` `签到`
+- [iKuuuAPI](https://api.ikuuu.site/console/personal) `签到` `2.0`
+- [维云vsllm](https://vsllm.com/console/personal) `签到` `订阅制`
+- [小白code](https://token.dialoguedui.com/dashboard) `签到`
+- [SuperAPI](https://superapi.buzz/console/personal) `签到`
+- [DevPoolAi](https://xuseny.online/dashboard) `0.15` `剩余100刀`
+- [iCodex](https://sub.icodex.pro/dashboard) `0.15-0.5`
+
+## 白嫖
+
+- [蓝调思维](https://api.bluesminds.com/console) `60刀` `共享`
+- [FreeModel](https://freemodel.dev/dashboard) `订阅7.9到期` `共享`
+- [斑马](https://bmapi.020212.xyz/dashboard) `4000积分` `共享`
+- [AI-ROUTER](https://ai-router.dev/dashboard) `30刀`
+- [Super NB](https://api.super-nb.me/dashboard) `50刀` `共享`
+- [GJX AI Gateway](https://api.gjx88.com/dashboard) `10刀` `倍率不明`
+
+## 备用 & 未充值
+
+- [apilio](https://api.apilio.ai/) `生图`
+- [极速API](https://api.x5m5x.com/purchase) `国模` `订阅制`
+- [君の星辰](https://ai.centos.hk/console) `特价克劳德`
+- [麻豆科技](https://mdkj.lol/dashboard) `0.07`
+- [云舟API](https://cli.999554.xyz/console) `0.1`
+- [寒鸦的小破站](https://api.hanhegufei.online/keys) `0.1`
+- [刀刀刀](https://codexapis.com/console) `0.1`
+- [Qingflow](https://jingyuqingfeng.cn/dashboard) `灰太狼` `0.1-0.18`
+- [词元枢阁](https://api.aisz.mom/dashboard/overview) `0.12`
+- [可达鸭](https://sub.kedaya.xyz) `0.12`
+- [云渡](https://yundu.lat/dashboard) `0.14-0.23`
+- [星域 - Ainzbrr API](https://nzbrr.asia/dashboard) `0.15`
+- [Dawcode](https://dawcode.com/console/personal) `0.15`
+- [luchikey](https://sub2api.luchikey.com/dashboard) `0.15-0.2`
+- [(O—O)](https://0-0.pro/dashboard) `0.25` `备用`
+- [XHY中转](https://cc.v587xhy.com/console) `克劳德` `15R`
+- [Miao API](https://thisis.best/sign-up) `克劳德`
+- [OhMyGPT](https://www.ohmygpt.com/dashboard) `原价倍率` `20刀`
+
+# HHHL
+
+- [HHHL](https://dc.hhhl.cc/)
+- [free7](https://aiapi1.cc.cd/console/personal) `签到` `30刀`
+- [free-hhhl](https://api-public.proxy-gls.de5.net/profile) `签到` `60刀`
+- [观澜](https://free.liunian.ai.moe5200.com/profile) `签到` `60刀`
+- [黑鸡公益](https://newapi.cjfxia.xyz/console/personal) `签到` `30刀`
+- [RTOC](https://ai2.rtoc.cc/console/personal) `签到` `30刀`
+- [HKzhang](https://api.hkzhang.cc.cd/console) `50刀`
+- [sk-free](https://www.sk-free.com/dashboard/overview) `30刀`
+- [Pornhub](https://gptclaude.fun/dashboard) `50刀`
+- [VIP](https://vip.j3gb.com/dashboard) `皇帝站` `10刀`
+- [cjfxia](https://newapi.cjfxia.xyz/console/topup) `30刀`
+- [IKun](https://ikun.pipiliu.top/console/topup) `33刀`
