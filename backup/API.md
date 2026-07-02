@@ -27,11 +27,9 @@
 
 ## 白嫖
 
-- [蓝调思维](https://api.bluesminds.com/console) `60刀` `共享`
 - [FreeModel](https://freemodel.dev/dashboard) `订阅7.9到期` `共享`
 - [斑马](https://bmapi.020212.xyz/dashboard) `4000积分` `共享`
 - [AI-ROUTER](https://ai-router.dev/dashboard) `30刀`
-- [Super NB](https://api.super-nb.me/dashboard) `50刀` `共享`
 - [GJX AI Gateway](https://api.gjx88.com/dashboard) `10刀` `倍率不明`
 
 ## 备用 & 未充值
@@ -43,7 +41,7 @@
 - [云舟API](https://cli.999554.xyz/console) `0.1`
 - [寒鸦的小破站](https://api.hanhegufei.online/keys) `0.1`
 - [刀刀刀](https://codexapis.com/console) `0.1`
-- [Qingflow](https://jingyuqingfeng.cn/dashboard) `灰太狼` `0.1-0.18`
+- [Qingflow](https://jingyuqingfeng.cn/dashboard) `肥太狼` `0.1-0.18`
 - [词元枢阁](https://api.aisz.mom/dashboard/overview) `0.12`
 - [可达鸭](https://sub.kedaya.xyz) `0.12`
 - [云渡](https://yundu.lat/dashboard) `0.14-0.23`
