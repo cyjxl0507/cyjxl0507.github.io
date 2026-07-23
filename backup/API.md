@@ -15,7 +15,7 @@
 - [小水管](https://api.pie-xian.com/console/personal) `签到` `高并发翻译`
 - [Future Hub](https://api.futureppo.top/console/personal) `签到` `高并发翻译`
 - [简直了](https://jianzhile.vip/console) `签到`
-- [1412](https://napi.kid1412.qzz.io/pricing) `签到`
+- [1412](https://napi.kid1412.qzz.io/profile) `签到`
 
 # 付费站
 
