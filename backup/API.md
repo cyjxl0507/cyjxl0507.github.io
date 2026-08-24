@@ -1,4 +1,4 @@
-## 检测站
+# 检测站
 
 - [Code雷达](https://codexradar.com/)
 - [蹬蹬群U检测](https://cybertar.youngood.tech/lab/model-verifier/)
@@ -7,48 +7,44 @@
 - [中转站品质检测](https://bazaarlink.ai/probe)
 - [Claude test](https://cctest.ai/zh)
 
-## 公益站
+# 公益站
 
 - [聚合 API 导航](https://gyai.huanmin.top/p/resources)
 - [AI Token 导航](https://freetokennav.com/)
-- [登仙](https://api.denxio.top/checkin) `签到` `拉闸中`
-- [小水管](https://api.pie-xian.com/console/personal) `签到` `高并发翻译`
+- [小水管](https://api.pie-xian.com/profile) `签到` `高并发翻译`
 - [Future Hub](https://api.futureppo.top/console/personal) `签到` `高并发翻译`
+- [Agent Router](https://agentrouter.org/console) `公益`
+- [GoRouter](https://gorouter.app/dashboard/overview) `公益`
 - [简直了](https://jianzhile.vip/console/personal) `签到`
 - [1412](https://napi.kid1412.qzz.io/profile) `签到`
-- [百倍](https://sub.100xlabs.space/check-in) `签到` `克劳德`
-- [林夕](https://k40.shengqainbang.cn/check-in) `签到` `克劳德`
-- [分享奇点](https://api-public.proxy-gls.de5.net/profile) `签到`
 
-## 付费站
+# 付费站
 
-### 付费
+## 付费
 
-- [Cloudpipi](https://cloudpipi.com/console/personal) `签到` `RP站`
-- [iKuuuAPI](https://api.ikuapi.com/profile) `签到` `0.13-0.2`
-- [小白code](https://token.dialoguedui.com/dashboard) `签到` `0.07-0.2`
-- [AI-ROUTER](https://ai-router.dev/dashboard) `签到` `订阅制` `30刀`
-- [2Chat](https://2chat.cc/dashboard) `0.08-0.15`
-- [乾行](https://fast.qianxing.pro/profile) `签到` `0.1-0.25`
-- [年华](https://newapi.makelove.cloud/profile) `签到` `订阅制` `0.15`
-- [归离@API](https://api3.guili.fun/dashboard) `0.1-0.15`
+- [iKuuuAPI](https://api.ikuapi.com/profile) `签到` 
+- [AI-ROUTER](https://ai-router.dev/dashboard) `签到` `订阅制` 
+- [神稳AI](https://shenwenai.com/status) 
+- [2Chat](https://2chat.cc/dashboard) 
+- [Node X API](https://154-21-194-239.sslip.io/profile) `RP站`
+- [XHY中转](https://cc.v587xhy.com/console) `RP站`  
 
-### 白嫖
+## 白嫖
 
-- 
+- [乾行](https://fast.qianxing.pro/profile) `签到`
+- [年华](https://newapi.makelove.cloud/profile) `签到` `订阅制` 
 
-### 备用与未充值
+## 备用 & 未充值
 
 - [apilio](https://api.apilio.ai/) `生图`
-- [极速API](https://api.x5m5x.com/purchase) `国模` `订阅制`
-- [麻豆科技](https://mdkj.lol/dashboard) `0.08`
-- [云舟API](https://cli.999554.xyz/console) `0.1-0.2`
-- [寒鸦的小破站](https://api.hanhegufei.online/keys) `0.1-0.2`
-- [刀刀刀](https://codexapis.com/console) `0.1-0.2`
-- [Qingflow](https://jingyuqingfeng.cn/dashboard) `肥太狼` `0.1-0.16`
-- [词元枢阁](https://api.aisz.mom/dashboard/overview) `0.13-0.2`
-- [可达鸭](https://sub.kedaya.xyz) `0.08`
-- [(O-O)](https://0-0.pro/dashboard) `保底` `0.25`
-- [Dawcode](https://dawcode.com/dashboard/overview) `保底` `0.3`
-- [XHY中转](https://cc.v587xhy.com/console) `克劳德` `次卡` `0.8`
+- [SheApi](https://www.sheapi.top/profile)
+- [1For](https://1for.cc/dashboard)
+- [极刻ZeekAI](https://api.zeekai.cc/dashboard)
+- [PiTe](https://www.piteai.com/dashboard/overview)
+- [Tokeness](https://tokeness.io/dashboard/overview)
+- [dli](https://dli.li/sign-up?aff=SyAf)
+- [云舟API](https://cli.999554.xyz/console) 
+- [词元枢阁](https://api.aisz.mom/dashboard/overview) 
+- [(O—O)](https://0-0.pro/dashboard) `保底`
+- [Dawcode](https://dawcode.com/dashboard/overview) `保底` 
 - [OhMyGPT](https://www.ohmygpt.com/dashboard) `原价倍率` `20刀`
