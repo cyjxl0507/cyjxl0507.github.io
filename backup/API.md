@@ -41,7 +41,7 @@
 - [1For](https://1for.cc/dashboard)
 - [极刻ZeekAI](https://api.zeekai.cc/dashboard)
 - [PiTe](https://www.piteai.com/dashboard/overview)
-- [Tokeness](https://tokeness.io/dashboard/overview)
+- [Tokeness](https://tokeness.ai/profile)
 - [dli](https://dli.li/sign-up?aff=SyAf)
 - [云舟API](https://cli.999554.xyz/console) 
 - [词元枢阁](https://api.aisz.mom/dashboard/overview) 
