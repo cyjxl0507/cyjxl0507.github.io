@@ -1,7 +1,6 @@
 # 检测站
 
 - [Code雷达](https://codexradar.com/)
-- [蹬蹬群U检测](https://cybertar.youngood.tech/lab/model-verifier/)
 - [禾维](https://hvoy.ai/)
 - [真测Ztest](https://ztest.ai/)
 - [中转站品质检测](https://bazaarlink.ai/probe)
@@ -13,26 +12,27 @@
 - [AI Token 导航](https://freetokennav.com/)
 - [小水管](https://api.pie-xian.com/profile) `签到` `高并发翻译`
 - [Future Hub](https://api.futureppo.top/console/personal) `签到` `高并发翻译`
-- [Agent Router](https://agentrouter.org/console) `公益`
 - [GoRouter](https://gorouter.app/dashboard/overview) `公益`
 - [简直了](https://jianzhile.vip/console/personal) `签到`
 - [1412](https://napi.kid1412.qzz.io/profile) `签到`
+
+
 
 # 付费站
 
 ## 付费
 
 - [iKuuuAPI](https://api.ikuapi.com/profile) `签到` 
-- [AI-ROUTER](https://ai-router.dev/dashboard) `签到` `订阅制` 
+- [年华](https://newapi.makelove.cloud/profile) `签到` `订阅制` 
 - [神稳AI](https://shenwenai.com/status) 
 - [2Chat](https://2chat.cc/dashboard) 
-- [Node X API](https://154-21-194-239.sslip.io/profile) `RP站`
+- [Node X API](https://nodexapi.it.com/profile) `RP站`
 - [XHY中转](https://cc.v587xhy.com/console) `RP站`  
 
 ## 白嫖
 
 - [乾行](https://fast.qianxing.pro/profile) `签到`
-- [年华](https://newapi.makelove.cloud/profile) `签到` `订阅制` 
+- 
 
 ## 备用 & 未充值
 
